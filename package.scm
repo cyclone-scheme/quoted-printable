@@ -1,6 +1,6 @@
 (package
  (name           quoted-printable)
- (version        0.1)
+ (version        0.2)
  (license        "BSD")
  (authors        "Alex Shinn")
  (maintainers    "Justin Ethier <justin.ethier at gmail dot com>")
